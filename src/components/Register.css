@@ -1,0 +1,204 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  text-decoration: none;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.wrapper {
+  max-width: 550px;
+  width: 100%;
+  height: 80%;
+  background: #fff;
+  padding: 60px 45px;
+  margin-top: 20%;
+
+  border-top-left-radius: 10% 50%;
+  border-bottom-left-radius: 10% 50%;
+}
+
+.wrapper .title {
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 26px;
+  font-weight: bold;
+  color: white;
+}
+
+.wrapper .form .form-control {
+  margin-bottom: 10px;
+}
+
+.wrapper .form .form-control .input {
+  padding: 12px;
+  padding-left: 30px;
+  border: none;
+  background: #eeeeee;
+}
+
+.wrapper .btn-block {
+  width: 70%;
+  margin: 50px auto 0;
+
+  text-align: center;
+  padding: 12px;
+  border-radius: 25px;
+  color: white;
+}
+
+.wrapper .form .form-control {
+  top: 50px;
+  left: 10px;
+  font-size: 14px;
+  color: #1d2120;
+}
+
+#showcase {
+  margin-bottom: 50px;
+  animation-name: heading;
+  animation-duration: 2s;
+  position: relative;
+  animation-fill-mode: forwards;
+}
+@keyframes heading {
+  0% {
+    left: -1000px;
+  }
+
+  100% {
+    left: 0;
+  }
+}
+#showcase2 {
+  animation-name: content;
+  animation-duration: 3s;
+  position: relative;
+  animation-fill-mode: forwards;
+}
+@keyframes content {
+  0% {
+    left: -1000px;
+  }
+
+  100% {
+    left: 0;
+  }
+}
+#showcase3 {
+  animation-name: register;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes register {
+  0% {
+    background-image: linear-gradient(to right, #ff5722, #ff9800);
+  }
+  50% {
+    background-image: linear-gradient(to right, #ff9800, #ff5722);
+  }
+  100% {
+    background-image: linear-gradient(to right, #ff5722, #ff9800);
+  }
+}
+#showcase4 {
+  animation-name: btn;
+  border: #fff 1px solid;
+  opacity: 0;
+  animation-duration: 5s;
+  animation-delay: 5s;
+  animation-fill-mode: forwards;
+}
+@keyframes btn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#showcaseLogin {
+  animation-name: login;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes login {
+  0% {
+    background-image: linear-gradient(to right, #ff5722, #ff9800);
+  }
+  50% {
+    background-image: linear-gradient(to right, #ff9800, #ff5722);
+  }
+  100% {
+    background-image: linear-gradient(to right, #ff5722, #ff9800);
+  }
+}
+.wrapper1 {
+  max-width: 550px;
+
+  height: 80%;
+  background: #fff;
+  padding: 60px 45px;
+  margin-top: 15%;
+  margin-left: auto;
+  border-top-left-radius: 10% 50%;
+  border-bottom-left-radius: 10% 50%;
+}
+.wrapper1 .title {
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 26px;
+  font-weight: bold;
+  color: white;
+}
+
+.wrapper1 .form .form-control {
+  margin-bottom: 10px;
+}
+
+.wrapper1 .form .form-control .input {
+  width: 100%;
+  padding: 12px;
+  padding-left: 30px;
+  border: none;
+  background: #eeeeee;
+}
+
+.wrapper1 .btn-block {
+  width: 70%;
+  margin: 50px auto 0;
+
+  text-align: center;
+  padding: 12px;
+  border-radius: 25px;
+  color: white;
+}
+
+.wrapper1 .form .form-control {
+  top: 50px;
+  left: 10px;
+  font-size: 14px;
+  color: #1d2120;
+}
+#imageRotate {
+  animation-name: rotate;
+  animation-duration: 9s;
+  animation-delay: 9s;
+  animation-fill-mode: forwards;
+}
+#imageRotate:hover {
+  transform: rotateY(180deg);
+}
+@keyframes rotate {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

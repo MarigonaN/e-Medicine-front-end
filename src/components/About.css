@@ -1,0 +1,337 @@
+@media only screen and (max-width: 540px) {
+  .timeline > li .timeline-image1 {
+    position: absolute;
+    z-index: 100;
+
+    text-align: center;
+    color: white;
+    border: 7px solid rgba(128, 128, 128, 0.582);
+    border-radius: 100%;
+    background-color: rgba(128, 128, 128, 0.226);
+    background-image: url(../img/myPic.jpeg);
+    background-size: 140px;
+    background-repeat: no-repeat;
+  }
+  .timeline > li .timeline-image2 {
+    position: absolute;
+    z-index: 100;
+
+    text-align: center;
+    color: white;
+    border: 7px solid rgba(128, 128, 128, 0.582);
+    border-radius: 100%;
+    background-color: rgba(128, 128, 128, 0.226);
+    background-image: url(../img/striveLogo.png);
+    background-size: 140px;
+    background-repeat: no-repeat;
+  }
+  .timeline > li .timeline-panel1 {
+    float: left;
+    width: 70%;
+
+    text-align: right;
+    margin-bottom: 10px;
+    color: black;
+    padding: 0px 0px;
+  }
+  .timeline > li .timeline-panel2 {
+    float: left;
+    width: 70%;
+
+    text-align: right;
+    margin-bottom: 20px;
+    color: black;
+    padding: 0px 0px;
+  }
+
+  .timeline > li .timeline-image1 {
+    left: 62%;
+    width: 140px;
+    height: 140px;
+    padding: 0px 0px;
+  }
+
+  .timeline > li .timeline-image2 {
+    left: 1%;
+    width: 140px;
+    height: 140px;
+    padding: 0px 0px;
+  }
+  .timeline > li.timeline-inverted1 > .timeline-panel1 {
+    float: left;
+
+    text-align: left;
+    padding: 0px 0px;
+  }
+  .timeline > li.timeline-inverted2 > .timeline-panel2 {
+    float: right;
+    padding-left: 14px;
+    text-align: right;
+  }
+
+  .timeline > li .timeline-image1 h4 {
+    margin-top: 40px;
+  }
+  .timeline > li .timeline-image2 h4 {
+    margin-top: 40px;
+  }
+
+  /* .vl {
+    height: 120px;
+  }
+
+  .vl3 {
+    border-right: 3px solid rgba(128, 128, 128, 0.39);
+    height: 180px;
+    margin-left: 220px;
+    margin-top: 0;
+    margin-bottom: 0;
+  } */
+}
+@media only screen and (max-width: 280px) {
+  .timeline > li .timeline-image1 {
+    position: absolute;
+    z-index: 100;
+
+    text-align: center;
+    color: white;
+    border: 3px solid rgba(128, 128, 128, 0.582);
+    border-radius: 100%;
+    background-color: rgba(128, 128, 128, 0.226);
+    background-image: url(../img/myPic.jpeg);
+    background-size: 70px;
+    background-repeat: no-repeat;
+  }
+  .timeline > li .timeline-image2 {
+    position: absolute;
+    z-index: 100;
+
+    text-align: center;
+    color: white;
+    border: 3px solid rgba(128, 128, 128, 0.582);
+    border-radius: 100%;
+    background-color: rgba(128, 128, 128, 0.226);
+    background-image: url(../img/striveLogo.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+  }
+  .timeline > li .timeline-panel1 {
+    float: left;
+    width: 80%;
+
+    text-align: right;
+
+    margin-bottom: 40px;
+    color: black;
+    padding: 0px 0px;
+  }
+  .timeline > li .timeline-panel2 {
+    float: left;
+    width: 100%;
+
+    text-align: right;
+    margin-bottom: 20px;
+    color: black;
+    padding: 0px 0px;
+  }
+
+  .timeline > li.timeline-inverted1 > .timeline-panel1 {
+    float: left;
+
+    text-align: left;
+    padding: 0px 0px;
+  }
+  .timeline > li.timeline-inverted2 > .timeline-panel2 {
+    float: right;
+    padding-left: 14px;
+    text-align: right;
+  }
+
+  .timeline > li .timeline-image1 {
+    width: 100px;
+    height: 100px;
+
+    padding: 0px 0px;
+  }
+  .timeline > li .timeline-image2 {
+    width: 100px;
+    height: 100px;
+
+    padding: 0px 0px;
+  }
+  .timeline > li .timeline-image1 h4 {
+    margin-top: 40px;
+  }
+  .timeline > li .timeline-image2 h4 {
+    margin-top: 40px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .timeline > li .timeline-image1 {
+    position: absolute;
+    z-index: 100;
+
+    text-align: center;
+    color: white;
+    border: 7px solid rgba(128, 128, 128, 0.582);
+    border-radius: 100%;
+    background-color: rgba(128, 128, 128, 0.226);
+    background-image: url(../img/myPic.jpeg);
+    background-size: 160px;
+    background-repeat: no-repeat;
+  }
+  .timeline > li .timeline-image2 {
+    position: absolute;
+    z-index: 100;
+
+    text-align: center;
+    color: white;
+    border: 7px solid rgba(128, 128, 128, 0.582);
+    border-radius: 100%;
+    background-color: rgba(128, 128, 128, 0.226);
+    background-image: url(../img/striveLogo.png);
+    background-size: 190px;
+    background-repeat: no-repeat;
+  }
+  .timeline > li .timeline-panel1 {
+    float: left;
+    width: 40%;
+
+    text-align: right;
+    margin-bottom: 10px;
+    color: black;
+    padding: 0px 0px;
+  }
+  .timeline > li .timeline-panel2 {
+    float: left;
+    width: 40%;
+
+    text-align: right;
+    margin-bottom: 20px;
+    color: black;
+    padding: 0px 0px;
+  }
+
+  .timeline > li .timeline-image1 {
+    left: 40%;
+    width: 200px;
+    height: 200px;
+    padding: 0px 0px;
+  }
+
+  .timeline > li .timeline-image2 {
+    left: 40%;
+    width: 200px;
+    height: 200px;
+    padding: 0px 0px;
+  }
+  .timeline > li.timeline-inverted1 > .timeline-panel1 {
+    float: left;
+
+    text-align: left;
+    padding: 0px 0px;
+  }
+  .timeline > li.timeline-inverted2 > .timeline-panel2 {
+    float: right;
+    padding-left: 0px;
+    text-align: right;
+  }
+
+  .timeline > li .timeline-image1 h4 {
+    margin-top: 40px;
+  }
+  .timeline > li .timeline-image2 h4 {
+    margin-top: 40px;
+  }
+
+  .vl {
+    height: 120px;
+  }
+
+  .vl3 {
+    border-right: 3px solid rgba(128, 128, 128, 0.39);
+    height: 180px;
+    margin-left: 49%;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+
+#fadex {
+  animation-name: fadexb;
+  animation-duration: 6s;
+  position: relative;
+  animation-fill-mode: forwards;
+}
+@keyframes fadexb {
+  0% {
+    left: -1000px;
+  }
+
+  100% {
+    left: 0;
+  }
+}
+#A1 {
+  animation-name: A1;
+  animation-duration: 4s;
+  position: relative;
+  animation-fill-mode: forwards;
+}
+@keyframes A1 {
+  0% {
+    top: -1000px;
+  }
+
+  100% {
+    top: 0;
+  }
+}
+#A2 {
+  margin-top: 4%;
+  animation-name: A2;
+  animation-duration: 2s;
+  position: relative;
+  animation-fill-mode: forwards;
+}
+@keyframes A2 {
+  0% {
+    left: -1000px;
+  }
+
+  100% {
+    left: 0;
+  }
+}
+#A3 {
+  animation-name: A3;
+  animation-duration: 3s;
+  position: relative;
+  animation-fill-mode: forwards;
+}
+@keyframes A3 {
+  0% {
+    top: -1000px;
+  }
+
+  100% {
+    top: 0;
+  }
+}
+#A4 {
+  margin-top: 4%;
+  animation-name: A4;
+  animation-duration: 2s;
+  position: relative;
+  animation-fill-mode: forwards;
+}
+@keyframes A4 {
+  0% {
+    right: -1000px;
+  }
+
+  100% {
+    right: 0;
+  }
+}

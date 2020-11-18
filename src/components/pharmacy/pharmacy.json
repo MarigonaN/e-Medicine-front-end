@@ -1,0 +1,78 @@
+[
+  {
+    "_id": "caa4f337-ecf0-4746-82cf-63b6a49c1183",
+    "@type": "Pharmacy",
+    "name": "Med Pharm",
+    "image": "https://images.vexels.com/media/users/3/208783/isolated/preview/12dc38d91a6e545c514a33dc2757a2b2-first-to-the-scene-paramedic-by-vexels.png",
+    "description": "If you're prescribed a medicine to treat a long-term condition for the first time, you may be able to get extra help and advice about your medicine from your local pharmacist through a free scheme called the New Medicine Service (NMS).People often have problems when they start a new medicine. As part of the scheme, the pharmacist will support you over several weeks to use the medicine safely and to best effect.  In some cases where there's a problem and a solution cannot be found between you and the pharmacist, you'll be referred back to your doctor.",
+    "registered": "Saturday, August 15, 2020 6:19 PM",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "89 North Bishop Street, WV 26554",
+      "addressLocality": "Berlin",
+      "addressRegion": "Germany"
+    },
+    "openingHours": "Mo, Tu, We, Th, Fr, Sa 08:00-19:00",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "937-298-3253"
+    }
+  },
+  {
+    "_id": "7aabca83-1fb7-4edc-a4bf-b97f2191d1ab",
+    "@type": "Pharmacy",
+    "name": "Bio-Pharm",
+    "image": "https://images.vexels.com/media/users/3/149773/isolated/preview/7a3c379b2961237e555cccac692e5f52-emt-paramedic-logo-by-vexels.png",
+    "description": "Community pharmacies are situated in high street locations, in neighbourhood centres, in supermarkets and in the heart of the most deprived communities. Many are open long hours when other health care professionals are unavailable. There are several different types and sizes of community pharmacies, ranging from the large chains with shops on every High Street or in edge of town supermarkets, to small individually owned pharmacies in small communities, in the suburbs and often in deprived areas or rural settings.",
+    "registered": "Saturday, August 15, 2020 6:19 PM",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "89 North Bishop Street, WV 26554",
+      "addressLocality": "Berlin",
+      "addressRegion": "Germany"
+    },
+    "openingHours": "Mo, Tu, We, Th, Fr, Sa 08:00-19:00",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "937-298-3253"
+    }
+  },
+  {
+    "_id": "5f1b9afd-3d3e-4739-b5dc-2c36457c1d31",
+    "@type": "Pharmacy",
+    "name": "Green-Pharm",
+    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/86d40054210335.595234eb0e6bb.png",
+    "description": "The traditional role of the community pharmacist as the healthcare professional who dispenses prescriptions written by doctors has changed. In recent years community pharmacists have been developing clinical services in addition to the traditional dispensing role to allow better integration and team working with the rest of the NHS.",
+    "registered": "Saturday, August 15, 2020 6:19 PM",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "89 North Bishop Street, WV 26554",
+      "addressLocality": "Berlin",
+      "addressRegion": "Germany"
+    },
+    "openingHours": "Mo, Tu, We, Th, Fr, Sa 08:00-19:00",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "937-298-3253"
+    }
+  },
+  {
+    "_id": "0e366ac2-8e2e-434a-b267-cbcee3a10763",
+    "@type": "Pharmacy",
+    "name": "Medical",
+    "image": "https://seeklogo.com/images/P/pharmacy-logo-4729C66E18-seeklogo.com.png",
+    "description": "This guidance applies to all pharmacy staff to minimize their risk of exposure to SARS-CoV-2 and reduce the risk for patients during the COVID-19 pandemic. As a vital part of the healthcare system, pharmacies play an important role in providing medicines, therapeutics, vaccines, and critical health services to the public. Ensuring continuous function of pharmacies during the COVID-19 pandemic is important. During the pandemic, pharmacy staff can minimize their risk of exposure to the virus that causes COVID-19 and reduce the risk for patients by using the principles of infection prevention and control and social distancing.",
+    "registered": "Saturday, August 15, 2020 6:19 PM",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "89 North Bishop Street, WV 26554",
+      "addressLocality": "Berlin",
+      "addressRegion": "Germany"
+    },
+    "openingHours": "Mo, Tu, We, Th, Fr, Sa 08:00-19:00",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "937-298-3253"
+    }
+  }
+]

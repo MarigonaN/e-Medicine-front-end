@@ -1,0 +1,134 @@
+.image {
+  display: block;
+  height: auto;
+}
+
+.middle {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 260px;
+  height: 280px;
+  opacity: 0;
+  transition: 0.5s ease;
+  background-color: rgba(254, 209, 54, 0.9);
+}
+
+.middle:hover {
+  opacity: 1;
+  margin-left: 10px;
+  height: 280px;
+  width: 260px;
+  border: 1px solid rgba(254, 209, 54, 0.9);
+}
+.text {
+  color: white;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+#modal {
+  background-image: linear-gradient(to right, #ff5722, #ff9900ea) !important;
+}
+#showcaseName {
+  animation-name: content1;
+  animation-duration: 3s;
+  position: relative;
+  animation-fill-mode: forwards;
+}
+@keyframes content1 {
+  0% {
+    left: -1000px;
+  }
+
+  100% {
+    left: 0;
+  }
+}
+#showcaseName1 {
+  animation-name: content2;
+  animation-duration: 4s;
+  position: relative;
+  animation-fill-mode: forwards;
+}
+@keyframes content2 {
+  0% {
+    left: -1000px;
+  }
+
+  100% {
+    left: 0;
+  }
+}
+#showcaseName2 {
+  animation-name: content3;
+  animation-duration: 5s;
+  position: relative;
+  animation-fill-mode: forwards;
+}
+@keyframes content3 {
+  0% {
+    left: -1000px;
+  }
+
+  100% {
+    left: 0;
+  }
+}
+
+#showcaseName3 {
+  animation-name: content4;
+  animation-duration: 6s;
+  position: relative;
+  animation-fill-mode: forwards;
+}
+@keyframes content4 {
+  0% {
+    left: -1000px;
+  }
+
+  100% {
+    left: 0;
+  }
+}
+#showcaseName4 {
+  animation-name: content5;
+  animation-duration: 7s;
+  position: relative;
+  animation-fill-mode: forwards;
+}
+@keyframes content5 {
+  0% {
+    left: -1000px;
+  }
+
+  100% {
+    left: 0;
+  }
+}
+#showcaseName5 {
+  animation-name: content6;
+  animation-duration: 8s;
+  position: relative;
+  animation-fill-mode: forwards;
+}
+@keyframes content6 {
+  0% {
+    left: -1000px;
+  }
+
+  100% {
+    left: 0;
+  }
+}
+#imageRadius {
+  border-top-left-radius: 50% 50%;
+  border-bottom-left-radius: 10% 50%;
+}
